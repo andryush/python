@@ -1,0 +1,25 @@
+This is a file with some data that I want to transfer to ex17-to.txt file using
+PYTHON!!!
+
+
+_____________________________________
+
++++++++++++++++++++++++++++++++++++++
+
+FROM EX17-2.PY
+
+
+
+SECOND TEXT
+JUST FOR TEST
+
+with from os.path import exists
+
+using {len(filename)} to know file length
+using {exists(filename)} - true or false if exists or not
+
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+
+------------_______________++++++++++++++
+
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
